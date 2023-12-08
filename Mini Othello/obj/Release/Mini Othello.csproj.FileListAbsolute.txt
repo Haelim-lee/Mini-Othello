@@ -1,0 +1,20 @@
+C:\Users\user\Desktop\Mini Othello\Mini Othello\bin\Release\Mini Othello.exe.config
+C:\Users\user\Desktop\Mini Othello\Mini Othello\bin\Release\Mini Othello.exe
+C:\Users\user\Desktop\Mini Othello\Mini Othello\bin\Release\Mini Othello.pdb
+C:\Users\user\Desktop\Mini Othello\Mini Othello\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Mini Othello\Mini Othello\bin\Release\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Mini Othello\Mini Othello\obj\Release\Mini Othello.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Mini Othello\Mini Othello\obj\Release\Mini Othello.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Mini Othello\Mini Othello\obj\Release\Mini Othello.csproj.CopyComplete
+C:\Users\user\Desktop\Mini Othello\Mini Othello\obj\Release\Mini Othello.exe
+C:\Users\user\Desktop\Mini Othello\Mini Othello\obj\Release\Mini Othello.pdb
+D:\Project\Mini Othello\Mini Othello\bin\Release\Mini Othello.exe.config
+D:\Project\Mini Othello\Mini Othello\bin\Release\Mini Othello.exe
+D:\Project\Mini Othello\Mini Othello\bin\Release\Mini Othello.pdb
+D:\Project\Mini Othello\Mini Othello\bin\Release\Newtonsoft.Json.dll
+D:\Project\Mini Othello\Mini Othello\bin\Release\Newtonsoft.Json.xml
+D:\Project\Mini Othello\Mini Othello\obj\Release\Mini Othello.csproj.AssemblyReference.cache
+D:\Project\Mini Othello\Mini Othello\obj\Release\Mini Othello.csproj.CoreCompileInputs.cache
+D:\Project\Mini Othello\Mini Othello\obj\Release\Mini Othello.csproj.CopyComplete
+D:\Project\Mini Othello\Mini Othello\obj\Release\Mini Othello.exe
+D:\Project\Mini Othello\Mini Othello\obj\Release\Mini Othello.pdb
